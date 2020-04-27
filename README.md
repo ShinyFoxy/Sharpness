@@ -1,2 +1,3 @@
 # Sharpness
-Sharpness is afast shoter game 
+Sharpness is a 
+fast shoter game 
